@@ -14,14 +14,14 @@ Utils : Ganache
 Editeur de text: visual studio code 
 
 
-Pour deployer le projet utilisez les commandes suivants:
+-Pour deployer le projet utilisez les commandes suivants:
 
 truffle init
 
 truffle migrate --compile-all --reset --network  development
 
 
-Pour travailler dans la console et avec elle :
+-Pour travailler dans la console et avec elle :
 
 truffle console --network development
 
